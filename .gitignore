@@ -1,0 +1,4 @@
+bin/
+obj/
+nide_modules/
+.env

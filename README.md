@@ -15,3 +15,5 @@
 
 ## Репозиторий
 https://github.com/vladantlolkek-bot/wt-lab1-1git-antonov
+## Ревью
+Проверено напарником
